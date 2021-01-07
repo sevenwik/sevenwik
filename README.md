@@ -9,7 +9,7 @@
 <a href=https://500px.com/p/sathwikchepyala99 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/500px.svg alt="sathwik" height="60" width="40"/></a>
 </p>
 
-<h2 align="center">A enthusiastic software developer 🧑🏽‍💻 from India 🇮🇳</h2>
+<h2 align="center">An enthusiastic software developer 🧑🏽‍💻 from India 🇮🇳</h2>
 <i class="devicon-twitter-plain colored"></i>
 <!--
 **sevenwik/sevenwik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
